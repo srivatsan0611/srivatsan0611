@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring engineer, inspired by AI development and Full-stack Development!</h3>
 
 
-<h4 align="center">Currently working on - Aarohan: A Discord Bot!</h4>
+<h4 align="center">Currently working on - a Bunch of MERN Implementations!</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
