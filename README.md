@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Srivatsan Srinivasan</h1>
-<h3 align="center">An aspiring engineer, inspired by AI development and Full-stack Development!</h3>
+<h3 align="center">An aspiring engineer, and I love building Machine Learning and Full Stack applications!</h3>
 
 
 <h4 align="center">Currently working on - a Bunch of MERN Implementations!</h4>
