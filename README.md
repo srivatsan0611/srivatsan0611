@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring engineer, and I love building Machine Learning and Full Stack applications!</h3>
 
 
-<h4 align="center">Currently working on - learning and implementing a URL Shortening Service!</h4>
+<h4 align="center">Currently working on - Learning and Building APIs!</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
