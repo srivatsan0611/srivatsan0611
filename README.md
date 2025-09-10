@@ -10,7 +10,7 @@ Currently focused on **designing and building nice APIs**, improving my **cloud 
 ## 🔧 Technical Skills  
 
 **Languages:** Python, TypeScript, JavaScript, Java, C++, C, SQL  
-**Frameworks & Technologies:** React.js, Next.js, Flask, Express.js, Node.js, TensorFlow, PyTorch, Superset SDK, MonteCarlo, Bootstrap  
+**Frameworks & Technologies:** React.js, Next.js, Flask, Express.js, Node.js, TensorFlow, PyTorch  
 **Databases:** PostgreSQL, MongoDB, Snowflake, SQLite  
 **Cloud & DevOps:** Docker, Kubernetes, CI/CD Pipelines (YAML), Git, Linux/UNIX  
 **Tools:** VSCode, Jupyter, Anaconda, Postman, ThunderClient  
