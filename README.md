@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Srivatsan Srinivasan  
 
 💻 **Full Stack Engineer with AI and Agentic Expertise**
-I love building **Machine Learning models** and **Scalable Full-Stack Applications**.  
-Currently focused on **designing and building nice APIs**, improving my **cloud & DevOps skills**, and solving **real-world problems through code**.  
+- I love building **Machine Learning models** and **Scalable Full-Stack Applications**.  
+- Currently focused on **experimenting with AI and API Services**, improving my **cloud & DevOps skills**, and solving **real-world problems through code**.  
 
 ---
 
