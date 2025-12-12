@@ -2,7 +2,7 @@
 
 💻 **Full Stack Engineer with AI and Agentic Expertise**
 - I love building **Machine Learning models** and **Scalable Full-Stack Applications**.
-- Currently exploring alot of tech, including Bun, HonoJS, CloudFare related ecosystems!
+- Currently exploring alot of tech, including Bun, HonoJS, CloudFlare related ecosystems!
 
 ---
 
