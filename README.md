@@ -8,7 +8,7 @@
 
 ## 🔧 Technical Bio 
 
-- I work across the stack with Python and TypeScript, build with React/Next.js on the front and Node/Flask/Django/FastAPI on the back, and ship things using Docker, Kubernetes, and CI/CD.
+- I work across the stack with Python and TypeScript, build with React/Vue/Next.js on the front and Node/Flask/Django/FastAPI on the back, and ship things using Docker, Kubernetes, and CI/CD.
 - I’m comfortable with PostgreSQL, MongoDB, and Snowflake, and I pick up new tooling fast whether it’s Core DeepLearning frameworks like TensorFlow/PyTorch or infra stuff like Git, Linux, and monitoring dashboards.
 
 ---
